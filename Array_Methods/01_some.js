@@ -1,0 +1,1 @@
+console.log('Desde 01_some.js');
